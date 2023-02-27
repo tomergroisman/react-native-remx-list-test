@@ -57,7 +57,6 @@ const getters = remx.getters({
   },
 
   getUser(id) {
-    state.users[4];
     return state.users.find(it => it.id === id);
   },
 });
