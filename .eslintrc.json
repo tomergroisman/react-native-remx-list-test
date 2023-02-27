@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "extends": "@react-native-community",
+  "parser": "@babel/eslint-parser",
+  "rules": {
+    "no-shadow": 0
+  }
+}
